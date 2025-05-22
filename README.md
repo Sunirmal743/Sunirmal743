@@ -73,12 +73,6 @@ Sunirmal743/Sunirmal743 is a ✨ special ✨ repository because its `README.md` 
       <tr>
         <td align="center"><img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"></td>
         <td align="center"><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"></td>
-        <td align="center"><img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"></td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"></td>
-        <td align="center"><img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"></td>
-        <td align="center"><img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"></td>
       </tr>
     </table>
   </div>
@@ -97,7 +91,6 @@ Sunirmal743/Sunirmal743 is a ✨ special ✨ repository because its `README.md` 
       <tr>
         <td align="center"><img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></td>
         <td align="center"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></td>
-        <td align="center"><img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></td>
       </tr>
     </table>
   </div>
