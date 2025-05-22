@@ -41,7 +41,7 @@ Sunirmal743/Sunirmal743 is a ✨ special ✨ repository because its `README.md` 
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
 </div>
 
-<details>
+
   <summary><h3>🧠 <span style="color:#FF00FF;">ARTIFICIAL INTELLIGENCE & MACHINE LEARNING</span></h3></summary>
   <br/>
   <div align="center">
@@ -58,9 +58,7 @@ Sunirmal743/Sunirmal743 is a ✨ special ✨ repository because its `README.md` 
       </tr>
     </table>
   </div>
-</details>
 
-<details>
   <summary><h3>🌐 <span style="color:#00FF88;">WEB DEVELOPMENT STACK</span></h3></summary>
   <br/>
   <div align="center">
@@ -76,9 +74,7 @@ Sunirmal743/Sunirmal743 is a ✨ special ✨ repository because its `README.md` 
       </tr>
     </table>
   </div>
-</details>
 
-<details>
   <summary><h3>🛠️ <span style="color:#00C0FF;">TOOLS & TECHNOLOGIES</span></h3></summary>
   <br/>
   <div align="center">
@@ -94,7 +90,6 @@ Sunirmal743/Sunirmal743 is a ✨ special ✨ repository because its `README.md` 
       </tr>
     </table>
   </div>
-</details>
 
 <h2 align="center">
   <span style="color:#FF00FF;">PROFESSIONAL FOCUS</span>
